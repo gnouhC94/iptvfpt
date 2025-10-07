@@ -136,7 +136,7 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/29px2Qy.png",TRT _ TH Thừa Thiên Huế
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gbkGCTk.png", THD HD | TH Hải Dương
-http://123.24.24.188:8889/ace/tv360mpd.php?id=59
+https://xem.hoiquan.Click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtv1hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/13/d7g5o7kh_vtv1-1be0def1411539ad6b5a1b9f97df826a0_296_168.png",❤️VTV1
 #EXTVLCOPT:http-user-agent=dovietsy
 http://123.24.24.188:8889/Vieon.php?id=vtv1
@@ -170,6 +170,7 @@ http://123.24.24.188:8889/Vieon.php?id=vtv8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/08/25e5k1kt_vtv9d14cdaf0fbaa7d8a6d86e59bcba1fe0b_296_168.png",❤️VTV9
 #EXTVLCOPT:http-user-agent=dovietsy
 http://123.24.24.188:8889/Vieon.php?id=vtv9
+
 
 
 
