@@ -137,40 +137,6 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gbkGCTk.png", THD HD | TH Hải Dương
 https://xem.hoiquan.Click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/13/d7g5o7kh_vtv1-1be0def1411539ad6b5a1b9f97df826a0_296_168.png",❤️VTV1
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv1
-#EXTINF:0 tvg-id="vtv2hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/14/8jxfvivt_vtv2ee9c08aad4e297b156d0b454e83fd10d_296_168.png",❤️VTV2
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv2
-#EXTINF:0 tvg-id="vtv3hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/15/8s0di0gq_thumb-v3b222f92c6f1851e3ae9b3a30496dc61d_296_168.png",❤️VTV3
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv3
-#EXTINF:0 tvg-id="vtv4hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/6dufbhs9_vtv4_296_168.png",❤️VTV4
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv4
-#EXTINF:-1 tvg-id="vtv5hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/28/wiijk2v7_vtv5_28082023f03f13f82602dddaad82275cb31c8112_296_168.png",❤️VTV5
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv5
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.png",❤️VTV5 HD Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv5tnb
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.png",❤️VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv5tn
-#EXTINF:-1 tvg-id="vtvcantho" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/mygem9ju_vtv-can-tho992d0d0d357f71755e38c5f4276cc207_296_168.png",❤️VTVCT
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtvct
-#EXTINF:0 tvg-id="vtv7hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/05/2q571qa6_vtv7d7962270987bf20c053af427d6f13dad_296_168.png",❤️VTV7
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv7
-#EXTINF:-1 tvg-id="vtv8hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/ma6k05nf_vtv8_296_168.png",❤️VTV8
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="❤️|VTV VIEON" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/03/08/25e5k1kt_vtv9d14cdaf0fbaa7d8a6d86e59bcba1fe0b_296_168.png",❤️VTV9
-#EXTVLCOPT:http-user-agent=dovietsy
-http://123.24.24.188:8889/Vieon.php?id=vtv9
-
 
 
 
