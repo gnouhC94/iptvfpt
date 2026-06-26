@@ -43,10 +43,6 @@ udp://@225.1.2.20:30120
 udp://@225.1.2.190:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="FPT" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
 udp://@225.1.1.131:30120
-#EXTINF:0 tvg-id="vtv5hdtnb" group-title="FPT" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 8Mbps)
-udp://@225.1.2.236:30120
-#EXTINF:0 tvg-id="vtv5hdtn" group-title="FPT" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên (HD 8Mbps)
-udp://@225.1.1.108:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="FPT" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6 (HD 8Mbps)
 udp://@225.1.2.154:30120
 #EXTINF:0 tvg-id="vtv7hd" group-title="FPT" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
