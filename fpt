@@ -16,7 +16,7 @@ https://livecdn-vthcm-bp.vieon.vn/142b9f2ea2dd111b4f5e98d0d9a3802c/1793621476000
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" catchup="default" catchup-days="2", VTV8
 https://livecdn-vthcm-bp.vieon.vn/fdb92172a3e720823d7d26d914cbd8dc/1793621490000/livetv/group-03/fd6b24e22924ecd153258819ba2049b8/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png", VTV9
-https://vmttv.dpdns.org/tv360/?id=vtv9
+https://livecdn-vthcm-bp.vieon.vn/e867ccdfb298acc778a8aace0dc4af35/1793621581000/livetv/group-03/6f34d2d2b930641beddae9c9480005a7/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png", VTV10
 https://livecdn-vthcm-bp.vieon.vn/33d7ee76e244dc223c77f389c94b9a13/1793621502000/livetv/group-03/6f34d2d2b930641beddae9c9480005a7/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1 HD
