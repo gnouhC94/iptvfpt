@@ -1,30 +1,24 @@
 #EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
-https://freem3u.xyz/api/live/play.m3u8?vid=2
+https://livecdn-vthcm-bp.vieon.vn/a40db99045bc20168a494db3cd015b3c/1793621168000/livetv/group-03/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
-https://vmttv.dpdns.org/tv360/?id=vtv2
+https://livecdn-vthcm-bp.vieon.vn/c01827513839a818fea249cf8bc1a88e/1793621277000/livetv/group-03/65e4e2cd4a6cd1c07682cc9d1830fd3f/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png", VTV3
-https://vmttv.dpdns.org/tv360/?id=vtv3
+https://livecdn-vthcm-bp.vieon.vn/27f9c6ab0e7192860361388a368bab30/1793621294000/livetv/group-03/00f4aa36b8d034b5e8569b77d1675c1e/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" , VTV4
-https://vmttv.dpdns.org/tv360/?id=vtv4
-#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
-https://freem3u.xyz/api/live/play.m3u8?vid=9951
+https://livecdn-vthcm-bp.vieon.vn/7c3216fc4e05ddcf87f828058f2d921f/1793621402000/livetv/group-03/c9e89fdf42233e52a57a312baa4e9da0/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" , VTV5
-https://freem3u.xyz/api/live/play.m3u8?vid=110
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png", VTV5 Tây Nam Bộ
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nam-bo
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png", VTV5 Tây Nguyên
-https://vmttv.dpdns.org/tv360/?id=vtv5-tay-nguyen
+https://livecdn-vthcm-bp.vieon.vn/6f107b61ce8a40f7a62d4c594b40f336/1793621432000/livetv/group-03/53a3ed9b2879dc2dcc2051bff6060b37/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png", VTV6
-https://vmttv.dpdns.org/tv360/?id=vtv6
+https://livecdn-vthcm-bp.vieon.vn/ba38610006958d273df4724c7e639c0f/1793621384000/livetv/group-03/4e67e0f5fbbf4398d4323a88108d1abe/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png", VTV7
-https://vmttv.dpdns.org/tv360/?id=vtv7
+https://livecdn-vthcm-bp.vieon.vn/142b9f2ea2dd111b4f5e98d0d9a3802c/1793621476000/livetv/group-03/67d1c84cac97171d714848c4c34c2b3a/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" catchup="default" catchup-days="2", VTV8
-https://vmttv.dpdns.org/tv360/?id=vtv8
+https://livecdn-vthcm-bp.vieon.vn/fdb92172a3e720823d7d26d914cbd8dc/1793621490000/livetv/group-03/fd6b24e22924ecd153258819ba2049b8/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png", VTV9
 https://vmttv.dpdns.org/tv360/?id=vtv9
 #EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png", VTV10
-https://vmttv.dpdns.org/tv360/?id=vtv10
+https://livecdn-vthcm-bp.vieon.vn/33d7ee76e244dc223c77f389c94b9a13/1793621502000/livetv/group-03/6f34d2d2b930641beddae9c9480005a7/playlist.m3u8?c=a
 #EXTINF:-1 tvg-id="htv1" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv1.jpg",HTV1 HD
 https://freem3u.xyz/api/live/play.m3u8?vid=190
 #EXTINF:-1 tvg-id="htv2hd" group-title="HTV" tvg-logo="https://img.lichphatsong.xyz/logo/htv2hd.jpg",HTV2 HD
