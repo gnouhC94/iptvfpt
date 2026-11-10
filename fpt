@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1
 https://pop9-ec1-ateme.tv360.vn/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkzODA4OTAwIiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy8xNTQvSExTX0NsZWFuX01ITF8ycy8iLCJzZXNzaW9uX2Nkbl9pZCI6ImYzMDIwMzVmNGQwODcxOGYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE3Mi4yNC4xNjguMTY0Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiIxNTUiLCJzb3VyY2VzIjpbMTk4LDQ2Miw0NjUsNDY5XX0=.ZxY0iUQz9qS3POWAJbhYd0mYwAFgAYzQC2NzT4sIaVMkBMGPv05R2enn9lBlLwfdKERUm2kxhzdijpEUwtU3ZQ==/live/eds/154/HLS_Clean_MHL_2s/154.m3u8?screen=MHL&uid=64230292
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV2.png",VTV2
