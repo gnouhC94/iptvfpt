@@ -10,7 +10,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV*" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV*" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
-https://live-vtv-aws.vtvdigital.vn/75fMJP63fvATHV6i404w2Q/1794938400/aws/vtv6_free/playlist.m3u8
+https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv6__vtv720p-h264/index.m3u8
 #EXTINF:0 tvg-id="vtv7hd" group-title="VTV*" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV7.png",VTV7
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv7/master.m3u8
 #EXTINF:0 tvg-id="vtv8hd" group-title="VTV8" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV8.png",VTV8
