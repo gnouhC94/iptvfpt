@@ -43,7 +43,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV*" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV5.png",VTV5
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5/master.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="VTV*" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV6.png",VTV6
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv6/master.m3u8
+https://live-vtv-aws.vtvdigital.vn/75fMJP63fvATHV6i404w2Q/1794938400/aws/vtv6_free/playlist.m3u8
 
 #EXTINF:-1 tvg-id="VideoEveryday" group-title="GNOUHC" tvg-logo="https://i.imgur.com/rD5S2qE.png",VIDEO ED
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
