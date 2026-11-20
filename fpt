@@ -21,9 +21,9 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/master.m3u8
 https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10__vtv720p-h264/index.m3u8
 
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/ĐP" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel
-https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT/HTV2-HD-ABR/playlist.m3u8
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/ĐP" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7
-https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT/HTV7-HD-ABR/playlist.m3u8
 
 #EXTINF:-1 tvg-id="quangninh1" group-title="HTV/ĐP" tvg-logo="https://media.baoquangninh.vn/upload/files/logo/QTV1.jpg", QTV1 HD
 https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/chunklist.m3u8
